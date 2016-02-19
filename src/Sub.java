@@ -1,4 +1,3 @@
-package Bennett.Bernardoni;
 
 import java.math.BigInteger;
 
